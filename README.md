@@ -23,6 +23,7 @@ The acquisition setup consists of the iCub humanoid robot and a motorized turnta
 <p align="justify">
 The motivation for constructing a new dataset is to assess whether a robust feature selection can be achieved in an environment where hardware constraints (such as camera resolution, and inaccuracies in the rotation of the turntable) and environmental noise (e.g. reflections and shadows) exist.
 </p>
+
 ### Acknowledgments  
 We would like to thank Andrea Pratesi, Mariangela Manti, and Taimoor Shah Hassan for their help during various stages of the data acquisition procedure.
 
