@@ -1,6 +1,6 @@
 
-# iCub camera dataset
-
+# iCub camera dataset  
+[![DOI](https://zenodo.org/badge/120915707.svg)](https://zenodo.org/badge/latestdoi/120915707)  
 <p align="justify">
 In this technical post,  the detailed description of a new dataset constructed with the iCub humanoid robot platform and a motorized turntable.  To construct a new dataset via a robot platform, we followed similar acquisition procedures used for the Columbia Object Image Library (COIL-100) [1].  In that, we selected 50 different graspable (by a robotic hand) objects. With the robot camera, we captured images of an object performing a full rotation in steps of approximately 5 degrees. In total, we collected 3600 color images of 50 objects (72 per object). 5 objects (a, b, c, d, e) and various rotations of a selected object (e, d, f, g, h) are shown in the  figure below.
 <p align="center">
